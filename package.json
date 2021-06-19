@@ -1,11 +1,11 @@
 {
-  "name": "unity-fullserializer",
+  "name": "unityfullserializer",
   "version": "1.1.0",
   "description": "Full Serializer is an easy to use and robust JSON serializer that just works.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacobdufault/fullserializer.git"
+    "url": "git+https://github.com/bzwill/fullserializer"
   },
   "files": [
     "index.js",
@@ -15,9 +15,9 @@
   "author": "jacobdufault",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jacobdufault/fullserializer/issues"
+    "url": "https://github.com/bzwill/fullserializer/issues"
   },
-  "homepage": "https://github.com/jacobdufault/fullserializer",
+  "homepage": "https://github.com/bzwill/fullserializer",
   "scripts": {
     "postinstall": "node Scripts/postinstall.js"
   },
