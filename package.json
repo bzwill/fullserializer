@@ -22,7 +22,7 @@
     "postinstall": "node Scripts/postinstall.js"
   },
   "dependencies": {
-    "ncp": "^2.0.0",
-    "mkdirp": "^0.5.1"
+    "ncp": "2.0.0",
+    "mkdirp": "0.5.1"
   }
 }
